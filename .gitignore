@@ -1,0 +1,6 @@
+*.zip
+*.csv
+venv/
+.vscode/
+data/original/
+scratchpad*
